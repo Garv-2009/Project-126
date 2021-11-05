@@ -1,0 +1,49 @@
+body{
+ background-position: center;
+ background-size: cover;
+ font-family: 'chalkboard';
+}
+.transparent{
+    margin-top: 1px;
+    background-color: rgba(224, 96, 224, 0.281);
+    width: 70%;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.note{
+    font-size: 20px;
+}
+.song1{
+    float: left;
+    
+}
+.song1 img{
+    width: 200px;
+    border-radius: 100px;
+}
+.song1 h3{
+    margin-left: -20px;
+    
+}
+.song2{
+    float: right;
+
+}
+.song2 img{
+    width: 200px;
+    border-radius: 100px;
+}
+.song2 h3{
+    margin-right: 20px;
+    
+}
+.size{
+    width: 150px;
+    font-size: 20px;
+}
+canvas{
+    border: white,solid;
+    border-radius: 5px;
+    height: 50px;
+}
